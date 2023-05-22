@@ -1,1 +1,1 @@
-# lol-bergs-python
+# lol-python
